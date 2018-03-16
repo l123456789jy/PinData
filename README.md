@@ -4,4 +4,4 @@
 
 做了pin工程結構，可以把項目中每個功能單獨當做一個模塊來做，包括資源，佈局
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/l123456789jy/PinData/blob/master/image/TIM%E6%88%AA%E5%9B%BE20180316145057.png)
